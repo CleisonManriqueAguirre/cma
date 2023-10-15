@@ -96,11 +96,11 @@
       institution: Innova Training Center
       year: 2015
       description: Modelado de estructuras, arquitectura e instalaciones en 3d
-    - title: VERIFIED CERTIFICADE: A HANDS ON INTRODUCTION TO ENGINEERING SIMULATIONS
+    - title: VERIFIED CERTIFICADE A HANDS ON INTRODUCTION TO ENGINEERING SIMULATIONS
       institution: Cornell University
       year: 2022
       description: Fundamentos basicos de la simulacion con ANSYS 
-    - title: ADVANCED FLUID MECHANICS: FUNDAMENTALS
+    - title: ADVANCED FLUID MECHANICS FUNDAMENTALS
       institution: MITx
       year: 2021
       description:  Casos especiales en mecanica clasica y de fluidos
@@ -112,7 +112,7 @@
       institution: Cognitive Class
       year: 2019
       description: Python usando JupyterNotebooks para la ciencia de datos
-    - title: ADVANCED FLUID MECHANICS: FUNDAMENTALS
+    - title: ADVANCED FLUID MECHANICS FUNDAMENTALS
       institution: MITx
       year: 2019
       description:  Casos especiales en mecanica clasica y de fluidos
