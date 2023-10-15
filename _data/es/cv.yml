@@ -147,7 +147,7 @@
         - CONEIMERA 2023, concurso de proyectos 1er puesto, "Propuesta de impresora 3d en arcilla de bajo costo"
 
 - title: Intereses Academicos
-  type: list
+  type: list_nested
   contents:
     - title: Programacion
       items: 
