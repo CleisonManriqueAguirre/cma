@@ -85,45 +85,45 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Formacion continua
-  type: time_table
-  contents:
-      title: Modelador
-      institution: Innova Training Center
-      year: 2015
-      description: Modelado de estructuras, arquitectura e instalaciones en 3d
-    - title: Modelador BIM
-      institution: Innova Training Center
-      year: 2015
-      description: Modelado de estructuras, arquitectura e instalaciones en 3d
-    - title: VERIFIED CERTIFICADE A HANDS ON INTRODUCTION TO ENGINEERING SIMULATIONS
-      institution: Cornell University
-      year: 2022
-      description: Fundamentos basicos de la simulacion con ANSYS 
-    - title: ADVANCED FLUID MECHANICS FUNDAMENTALS
-      institution: MITx
-      year: 2021
-      description:  Casos especiales en mecanica clasica y de fluidos
-     - title: LECTURES ON SELECTED TOPICS IN CLASSICAL AND FLUID MECHANICS
-      institution: MIPT
-      year: 2015
-      description: Casos especiales en mecanica clasica y de fluidos
-    - title: PYTHON 101 FOR DATA SCIENCE
-      institution: Cognitive Class
-      year: 2019
-      description: Python usando JupyterNotebooks para la ciencia de datos
-    - title: ADVANCED FLUID MECHANICS FUNDAMENTALS
-      institution: MITx
-      year: 2019
-      description:  Casos especiales en mecanica clasica y de fluidos
-     - title: DESIGN DES MATERIAUX ET DES STRUCTURES
-      institution: Centre des Materiux de Mines ParisTech
-      year: 2022
-      description: Casos especiales en mecanica clasica y de fluidos
-     - title: GENERATIVE DESIGN FOR ADDITIVE MANUFACTURING
-      institution: Autodesk Design Academy
-      year: 2022
-      description: Fundamentos basicos del diseño estructural generativo con Fusion 360
+# - title: Formacion continua
+#   type: time_table
+#   contents:
+#     - title: Modelador
+#       institution: Innova Training Center
+#       year: 2015
+#       description: Modelado de estructuras, arquitectura e instalaciones en 3d
+#     - title: Modelador BIM
+#       institution: Innova Training Center
+#       year: 2015
+#       description: Modelado de estructuras, arquitectura e instalaciones en 3d
+#     - title: VERIFIED CERTIFICADE A HANDS ON INTRODUCTION TO ENGINEERING SIMULATIONS
+#       institution: Cornell University
+#       year: 2022
+#       description: Fundamentos basicos de la simulacion con ANSYS 
+#     - title: ADVANCED FLUID MECHANICS FUNDAMENTALS
+#       institution: MITx
+#       year: 2021
+#       description:  Casos especiales en mecanica clasica y de fluidos
+#      - title: LECTURES ON SELECTED TOPICS IN CLASSICAL AND FLUID MECHANICS
+#       institution: MIPT
+#       year: 2015
+#       description: Casos especiales en mecanica clasica y de fluidos
+#     - title: PYTHON 101 FOR DATA SCIENCE
+#       institution: Cognitive Class
+#       year: 2019
+#       description: Python usando JupyterNotebooks para la ciencia de datos
+#     - title: ADVANCED FLUID MECHANICS FUNDAMENTALS
+#       institution: MITx
+#       year: 2019
+#       description:  Casos especiales en mecanica clasica y de fluidos
+#      - title: DESIGN DES MATERIAUX ET DES STRUCTURES
+#       institution: Centre des Materiux de Mines ParisTech
+#       year: 2022
+#       description: Casos especiales en mecanica clasica y de fluidos
+#      - title: GENERATIVE DESIGN FOR ADDITIVE MANUFACTURING
+#       institution: Autodesk Design Academy
+#       year: 2022
+#       description: Fundamentos basicos del diseño estructural generativo con Fusion 360
 
 
       
