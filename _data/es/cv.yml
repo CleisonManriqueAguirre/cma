@@ -25,7 +25,14 @@
       institution: Universidad Nacional de San Agustin, Arequipa, Peru
       year: 2022
       description: Bachiller y titulo profesional
-      
+    - title: Magister con mencion en estructuras  
+      institution: Universidad Nacional de Ingenieria
+      year: 2023 - 2025
+      description: Master
+    - title: Master en Manufactura Aditiva con mencion en simulaciones computacionales  
+      institution: Skoltech University (Rusia - Moscu)
+      year: 2023 - 2025
+      description: Master    
 
 - title: Experiencia
   type: time_table
@@ -34,6 +41,17 @@
       institution: Independiente
       year: 2020-2022
       description:
+        - Memoria de cálculo y plano de Muro de contención para el distrito de Cerro Colorado por una longitud total de 300mts.
+        - Elaboración de memoria de cálculo y planos de cobertura metálica para el Complejo deportivo en el centro poblado pulpera – Cusco con un
+área de 1458m2.
+        - Memoria de cálculo de tanque elevado cubico de 20m3 para la provincia de Espinar – Cusco.
+        - Memoria de cálculo de estructura de acero para pórtico de ingreso al “Fundo Sierra Dorada”
+        - Cobertura metálica con un área de 1300m2 para el distrito de Espinar – Cuzco.
+        - Análisis estructural y memoria de cálculo de stand para Perumin.
+        - Diseño de puente viga losa para la localidad de Allcalii, Chalhanca y Tuculle de 10 15 y 20mts de luz.
+        - Reforzamiento estructural de clínica Medisoft ubicado en Arequipa ‑ Cayma.
+        - Modelos de pórticos 2d con el uso de Openseespy.
+        - Modelo de torre de alta tensión con el uso de Openseespy.
         - Diseño de estructuras de concreto armado (edificaciones, muros de contencion, tanques elevados) .
         - Deseño de estructuras metalicas .
         - Dibujante CAD.
@@ -68,6 +86,48 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Formacion continua
+  type: time_table
+  contents:
+    - title: Modelador BIM
+      institution: Innova Training Center
+      year: 2015
+      description: Modelado de estructuras, arquitectura e instalaciones en 3d
+    - title: Modelador BIM
+      institution: Innova Training Center
+      year: 2015
+      description: Modelado de estructuras, arquitectura e instalaciones en 3d
+    - title: VERIFIED CERTIFICADE: A HANDS‑ON INTRODUCTION TO ENGINEERING SIMULATIONS
+      institution: Cornell University
+      year: 2022
+      description: Fundamentos basicos de la simulacion con ANSYS 
+    - title: ADVANCED FLUID MECHANICS: FUNDAMENTALS
+      institution: MITx
+      year: 2021
+      description:  Casos especiales en mecanica clasica y de fluidos
+     - title: LECTURES ON SELECTED TOPICS IN CLASSICAL AND FLUID MECHANICS
+      institution: MIPT
+      year: 2015
+      description: Casos especiales en mecanica clasica y de fluidos
+    - title: PYTHON 101 FOR DATA SCIENCE
+      institution: Cognitive Class
+      year: 2019
+      description: Python usando JupyterNotebooks para la ciencia de datos
+    - title: ADVANCED FLUID MECHANICS: FUNDAMENTALS
+      institution: MITx
+      year: 2019
+      description:  Casos especiales en mecanica clasica y de fluidos
+     - title: DESIGN DES MATERIAUX ET DES STRUCTURES
+      institution: Centre des Materiux de Mines ParisTech
+      year: 2022
+      description: Casos especiales en mecanica clasica y de fluidos
+     - title: GENERATIVE DESIGN FOR ADDITIVE MANUFACTURING
+      institution: Autodesk Design Academy
+      year: 2022
+      description: Fundamentos basicos del diseño estructural generativo con Fusion 360
+
+
+      
 - title: Premios y honores
   type: time_table
   contents:
@@ -77,15 +137,18 @@
     - year: 2014
       items: 
         - ACCESS schoolarship - Ingles
+    - year: 2017
+      items: 
+        - Segundo puesto "Concurso de puentes de Spaguetti"       
     - year: 2018
       items: 
         - CLAIO-2018, disertacion "CNC de bajo costo con propositos educativos"   
     - year: 2023
       items: 
-        - CONEIMERA 2023, concurso de proyectos 1er puesto, "Propuesta de impresora 3d en arcilla de bajo costo "
+        - CONEIMERA 2023, concurso de proyectos 1er puesto, "Propuesta de impresora 3d en arcilla de bajo costo"
 
 - title: Intereses Academicos
-  type: nested_list
+  type: list
   contents:
     - title: Programacion
       items: 
@@ -103,4 +166,4 @@
 - title: Otros intereses
   type: list
   contents:
-    - <u>Hobbies:</u> Cisclismo, Natacion, Atletismo, Futbol.
+    - Hobbies: Cisclismo, Natacion, Atletismo, Futbol.
