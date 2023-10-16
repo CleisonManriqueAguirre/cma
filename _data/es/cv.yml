@@ -146,23 +146,32 @@
       items: 
         - CONEIMERA 2023, concurso de proyectos 1er puesto, "Propuesta de impresora 3d en arcilla de bajo costo"
 
-- title: Intereses Academicos
-  type: list_nested
+
+- title: Intereses
+  type: nested_list
   contents:
     - title: Programacion
       items: 
         - Simulaciones computacionales (Fluidos y estructuras)
-        - Automatizacion de memorias de calculo y documentacion con grasshopper y python.
-    - title: Technologia
+        - Automatizacion de memorias de calculo y documentacion con grasshopper y python
+    - title: Tecnologia
       items:
-        - Robotica en la construccion.
-        - Diseño de circuitos electronicos.
-    - title: Fisica e ingenieria.
-        - Optimizacion estructural.
-        - Principios de la fisica cuantica  .
-        - Fisica clasica.
+        - Robotica en la construccion
+        - Diseño de circuitos electronicos
+    - title: Fisica e ingenieria
+      items :
+        - Optimizacion estructural
+        - Principios de la fisica cuantica
+        - Fisica clasica
+
 
 - title: Otros intereses
-  type: list
+  type: nested_list
   contents:
-    - Hobbies: Cisclismo, Natacion, Atletismo, Futbol.
+    - title: Deportes
+      items: 
+        - Cisclismo
+        - Natacion
+        - Atletismo
+        - Futbol
+

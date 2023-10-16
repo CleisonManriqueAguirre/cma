@@ -95,11 +95,16 @@
       items:
         - Robotics in construction.
         - Circuit board design
-    - title: Physics and engieneering
+    - title: Physics and engineering
         - Structural optimization 
         - Automatization of design structures calculus using python or grasshopper .
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Cisclism, Swimming, Running.
+    - title: Deportes
+      items: 
+        - Cisclism
+        - Swimming
+        - Running
+        - Soccer
