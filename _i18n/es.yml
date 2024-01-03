@@ -102,7 +102,7 @@ projects:
     fun: diversão
     work: trabalho
 repositories:
-  users: Usuários do GitHub
+  users: Usuarios de Github
   repos: Repositórios do GitHub
 cv:
   address: Endereço
